@@ -1,3 +1,3 @@
 # AR_Interface
 # VR_Namespace
-AR = Augmented Reality || VR = Virtual Reality (without Glasses)
+AR = Augmented Reality || VR = Virtual Reality (without Glasses or HeadSet)
